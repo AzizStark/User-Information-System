@@ -11,9 +11,9 @@ Oracle version used: Enterprise 18c </br>
 User Interface: Material Kit- Creative Tim </br>
 
 <h4>
-Requirements: If you want to run it yourself, you need
-PHP 5.0+ or newer
-HTTP server with PHP support (eg: Apache, Nginx, Caddy)
-Oracle18c
+Requirements: If you want to run it yourself, you need</br>
+PHP 5.0+ or newer</br>
+HTTP server with PHP support (eg: Apache, Nginx, Caddy)</br>
+Oracle18c</br>
 </h4>
 License: MIT 
