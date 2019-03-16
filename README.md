@@ -1,7 +1,7 @@
 # User-Information-System
 User Information System - DBMS Project
 
-A simple PHP webapp project for user identification.
+<h4>A simple PHP webapp project for user identification.</h4>
 
 Language:PHP(Php Hypertext Preprocessor) </br>
 Frontend framework: Bootstrap </br>
