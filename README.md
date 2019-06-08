@@ -14,6 +14,8 @@ User Interface: Material Kit- Creative Tim </br>
 Requirements: If you want to run it yourself, you need</br></br>
 - PHP 5.0+ or newer</br>
 - HTTP server with PHP support (eg: Apache, Nginx, Caddy)</br>
-- Oracle18c</br>
+- Oracle18c
+- DBeaver
+- InstantClient 18C 32bit</br>
 </h4></br>
 License: MIT 
