@@ -3,7 +3,7 @@ User Information System - DBMS Project
 
 <h4>A simple PHP webapp project for user identification.</h4>
 
-Language:PHP </br>
+Language: PHP </br>
 Frontend framework: Bootstrap </br>
 Plugins: JQuery </br>
 Database system: Oracle </br>
