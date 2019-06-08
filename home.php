@@ -79,7 +79,7 @@
             $name1=oci_result($name,'UNAME');
             $stat=oci_result($name,'STATUS');
             $gend=oci_result($name,'GENDER');
-            $pers=oci_result($name,'PERSONALTY');
+            $pers=oci_result($name,'PERSONALITY');
             $occu=oci_result($name,'OCCU');
             $age=oci_result($name,'AGE');
             
